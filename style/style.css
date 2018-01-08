@@ -1,0 +1,40 @@
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 75%;
+  margin-top: 10px;
+}
+
+.video-item img {
+  max-width: 64px;
+}
+
+.video-detail .details {
+  margin-top: 5px;
+  padding: 10px;
+  border: 1px solid rgb(208, 228, 245);
+  border-radius: 4px;
+}
+
+
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
+
+.container {
+  background-color: rgb(204, 227, 240);
+}
+
+.list-group {
+  margin-bottom: 10px !important;
+}
+
+
